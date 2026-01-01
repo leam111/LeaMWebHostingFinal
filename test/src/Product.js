@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import axios from "axios";
 
 const Product = () => {
-const API_URL = "http://localhost:5000";
+const API_URL = "https://claudeapi-txuf.onrender.com";
 
   const [product, setproduct] = useState([]);
 

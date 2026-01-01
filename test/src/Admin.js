@@ -15,7 +15,7 @@ function Admin() {
 
   const [products2, setproducts2] = useState([]);
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://claudeapi-txuf.onrender.com";
 
 
 
